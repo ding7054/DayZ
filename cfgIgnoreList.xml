@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ignore>
+	<type name="TF_RifleSling_Black"></type>
+    	<type name="TF_RifleSling_Brown"></type>
+    	<type name="TF_RifleSling_OD"></type>
+	<type name="SNAFU_Bipod"></type>
+	<type name="FOG_Crye_G3_Shirt_CB"></type>
+	<type name="FOG_Bag_DrawBridge_CB"></type>
+	<type name="TTC_R700_Black"></type>
+	<type name="NBCPantsGray"></type>
+	<type name="FOG_Vest_TV110T_MC"></type>
+	<type name="TTCSR25"></type>
+	<type name="FOG_Operator_Boots_Black"></type>
+	<type name="FOG_Operator_Boots_RG"></type>
+	<type name="TTSKOPants"></type>
+	<type name="GorkaPants_Autumn"></type>
+	<type name="FOG_Belt_RTGFB_MC"></type>
+	<type name="MMG_combatpants_police"></type>
+	<type name="JC_ChestHolster_Smooth_Brown"></type>
+	<type name="SNAFU_AS50_GUN"></type>
+	<type name="TTSKOPants"></type>
+	<type name="Winchester70_Black"></type>
+	<type name="FOG_MRB_Belt_AOR1"></type>
+	<type name="FOG_MRB_Belt_MCT"></type>
+	<type name="FOG_MRB_Belt_CB"></type>
+	<type name="JC_ChestHolster_Smooth_Black"></type>
+	<type name="GCGN_BenelliM4"></type>
+	<type name="SNAFUGM6Lynx"></type>
+</ignore>
